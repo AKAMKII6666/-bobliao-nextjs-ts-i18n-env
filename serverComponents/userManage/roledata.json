@@ -1,0 +1,14 @@
+{
+	"roles": [
+		{
+			"id": "0",
+			"name": "普通用户",
+			"menus": ["directoryManage", "nginxConfig"]
+		},
+		{
+			"id": "1",
+			"name": "管理员",
+			"menus": ["directoryManage", "nginxConfig", "pm2Manage", "linuxConsole"]
+		}
+	]
+}

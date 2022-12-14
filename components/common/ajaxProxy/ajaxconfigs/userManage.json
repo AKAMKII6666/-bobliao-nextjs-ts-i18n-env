@@ -1,0 +1,31 @@
+{
+	"inv": {
+		"cgiName": "用户登录微服务",
+		"devRoot": "http://192.168.0.106:9030/",
+		"grayRoot": "http://192.168.0.106:9030/",
+		"proRoot": "http://cdn.liaoliresume.com/mantanrance/userlogin/"
+	},
+	"commands": {
+		"login": {
+			"url": "login",
+			"method": "GET",
+			"paramsType": "routePar",
+			"headersPar": null,
+			"responseType": null,
+			"timeout": 60000,
+			"withCredentials": true,
+			"responseEncoding": "utf8",
+			"params": {
+				"userName": "",
+				"passWord": ""
+			},
+			"desc": " 用户登录"
+		},
+		"checkLogin": {
+			"url": "checklogin",
+			"method": "GET",
+			"withCredentials": true,
+			"desc": " 检查用户是否登录"
+		}
+	}
+}

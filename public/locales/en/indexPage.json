@@ -1,0 +1,21 @@
+{
+  "text0": "Please enter a purchase quantity. Only integers can be entered.",
+  "text1": "Face value: 1 share",
+  "text10": "Your balance is insufficient!",
+  "text11": "You will need {{price}} (MATIC) to buy {{count}} shares, a total of {{share}}. Would you like to continue?",
+  "text12": "You have completed purchasing shares!",
+  "text13": "You have cancelled purchasing shares!",
+  "text15": "Transaction message",
+  "text16": "You are conducting a transaction, please do not close the current page!",
+  "text17": "Holding {{count}} certificates",
+  "text18": "Purchase quantity is more than available for sale.",
+  "text19": "Holding {{count}} certificates, the total of {{share}} shares",
+  "text2": "Face value: 10 shares",
+  "text3": "Face value: 100 shares",
+  "text4": "Enter quantity",
+  "text5": "purchase",
+  "text6": "You will spend {{price}} (matic)",
+  "text7": "There are {{totalShare}} shares in total, and {{soldShare}} shares have been sold",
+  "text8": "Data loading is not completed, please wait",
+  "text9": "Your wallet balance is {{balance}} (matic)"
+}

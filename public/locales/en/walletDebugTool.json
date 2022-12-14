@@ -1,0 +1,17 @@
+{
+  "text1": " Currently logged in wallet account is:",
+  "text10": "Please check the network whether it is valid:",
+  "text11": "You have logged in with:",
+  "text12": "Please confirm the logged in account:",
+  "text13": "The number of times changing the signature:",
+  "text14": "(ethereum)How the local wallet works",
+  "text15": "(HttpProvider)Direct access to the working mode of the preset node ",
+  "text2": "Network currently in use:",
+  "text3": "Whether the wallet is currently installed:",
+  "text4": "Whether the wallet is currently linked:",
+  "text5": "Wallet Status Modification:",
+  "text6": "The number of times changing the wallet status:",
+  "text7": "The current contract operator is loaded:",
+  "text8": "The number of times the contract operator loaded:",
+  "text9": "The working mode of the current contract operator:"
+}

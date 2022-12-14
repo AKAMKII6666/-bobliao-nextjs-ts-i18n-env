@@ -1,0 +1,20 @@
+{
+	"users": [
+		{
+			"id": "0",
+			"name": "123123",
+			"passWord": "123123",
+			"avatar": "default",
+			"detail": "",
+			"role": ["0"]
+		},
+		{
+			"id": "1",
+			"name": "12121",
+			"passWord": "12121",
+			"avatar": "default",
+			"detail": "",
+			"role": ["1"]
+		}
+	]
+}

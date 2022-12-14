@@ -1,0 +1,21 @@
+{
+  "text1": "You do not have a connected wallet!",
+  "text10": "You did not sign to log in to our site!",
+  "text11": "Login with wallet signature can use more functions.",
+  "text12": "Sign in",
+  "text13": "You have installed the wallet, but the wallet is not initialized!",
+  "text14": "You have completed the wallet installation, but the wallet may not be initialized for this application, please click refresh to try to initialize the application!",
+  "text15": "Refresh app",
+  "text2": "Blockchain operations can be performed after the wallet is installed.",
+  "text3": "Install Wallet",
+  "text4": "You do not currently have a connected wallet!",
+  "text5": "Connect wallet to unlock more features..",
+  "text6": "Connect Wallet",
+  "text7": "Your current wallet network is wrong!",
+  "text8": "Your wallet network does not meet the needs of the current application.",
+  "text9": "Switch network",
+  "trustNetwork": {
+    "text1": "TrustWallet network is invalid!",
+    "text2": "TrustWallet network is invalid! Please change the network '{{chainName}} to ({{chainId}})And try again!"
+  }
+}

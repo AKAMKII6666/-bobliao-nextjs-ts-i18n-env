@@ -1,0 +1,31 @@
+{
+	"loadding": {
+		"text1": "正在载入,请稍候.."
+	},
+	"popup": {
+		"text1": "确定"
+	},
+	"stock": {
+		"text1": "鏈接錢包"
+	},
+	"windowLay": {
+		"text1": "确定",
+		"text2": "取消",
+		"text3": "系统消息"
+	},
+	"meta": {
+		"meta_keywords": "gom,God of musician,musician,god musician",
+		"meta_desc": "God of musician構建了一個去中心化的音樂金融新經濟模型。是集打榜、交易、版權為核心的去中心化鏈上應用。",
+		"og_url": "https://www.godofmusician.com/zh",
+		"og_site_name": "godofmusician",
+		"og_type": "website",
+		"og_title": "God of musician",
+		"og_description": "God of musician構建了一個去中心化的音樂金融新經濟模型。是集打榜、交易、版權為核心的去中心化鏈上應用。",
+		"og_image": "https://www.godofmusician.com/main.jpg",
+		"twitter_url": "https://www.godofmusician.com/zh",
+		"twitter_title": "God of musician",
+		"twitter_description": "God of musician構建了一個去中心化的音樂金融新經濟模型。是集打榜、交易、版權為核心的去中心化鏈上應用。",
+		"twitter_image": "https://www.godofmusician.com/main.jpg",
+		"twitter_card": "summary_large_image"
+	}
+}

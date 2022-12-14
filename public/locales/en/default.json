@@ -1,0 +1,16 @@
+{
+  "loadding": {
+    "text1": "Loading, please wait"
+  },
+  "popup": {
+    "text1": "Confirm"
+  },
+  "stock": {
+    "text1": "Connected Wallet"
+  },
+  "windowLay": {
+    "text1": "Confirm",
+    "text2": "cancel",
+    "text3": "System message"
+  }
+}
